@@ -1,0 +1,6 @@
+{
+  "name": "Werwolf Spielleiter",
+  "description": "Ein Helfer-Tool für den Spielleiter des Spiels 'Werwölfe von Düsterwald', um Charaktere, die Nachtreihenfolge und einen Timer für die Tagesdiskussion zu verwalten.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
